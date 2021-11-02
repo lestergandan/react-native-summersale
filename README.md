@@ -1,4 +1,4 @@
-<h1 align="center"><b> JacksGoGo React Native App </b> </h1>
+<h1 align="center"><b> Summer Sale React Native App </b> </h1>
 
 <p align="center">A minimal, clean and beautiful mobile app to help people find the jobs to book and change the world.</p>
 
@@ -28,27 +28,27 @@
 
 <p align="center">
   <kbd>
-    <img width="240" style="border-radius: 5px" height="450" src="screenshots/1.png" alt="1">
+    <img width="230" style="border-radius: 5px" height="450" src="screenshots/1.png" alt="1">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="450" src="screenshots/2.png" alt="2">
+    <img width="230" style="border-radius: 5px" height="450" src="screenshots/2.png" alt="2">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="450" src="screenshots/3.png" alt="3">
+    <img width="230" style="border-radius: 5px" height="450" src="screenshots/3.png" alt="3">
   </kbd>
   <br/><br/>
   <kbd>
-    <img width="240" style="border-radius: 5px" height="450" src="screenshots/4.png" alt="4">
+    <img width="230" style="border-radius: 5px" height="450" src="screenshots/4.png" alt="4">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="450" src="screenshots/5.png" alt="5">
+    <img width="230" style="border-radius: 5px" height="450" src="screenshots/5.png" alt="5">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="240" style="border-radius: 5px" height="450" src="screenshots/6.png" alt="6">
+    <img width="230" style="border-radius: 5px" height="450" src="screenshots/6.png" alt="6">
   </kbd>
 </p>
 
@@ -75,8 +75,8 @@ JacksGoGo is the booking app to find a job both employer and worker. It will be 
 
 #### 1) Clone & Install Dependencies
 
-- 1.1) `git clone https://github.com/funnyjerry/react-native-expo-Jacksgogo.git`
-- 1.2) `cd react-native-homeautomation-app` - cd into your newly created project directory.
+- 1.1) `git clone https://github.com/lestergandan/react-native-summersale.git`
+- 1.2) `cd react-native-summersale` - cd into your newly created project directory.
 - 1.3) Install NPM packages with `yarn install`
         **Note:** NPM has issues with React Native so `yarn` is recommended over `npm`.
 - 1.4) **[iOS]** `cd ios` and run `pod install` - if you don't have CocoaPods you can follow [these instructions](https://guides.cocoapods.org/using/getting-started.html#getting-started) to install it.
@@ -118,4 +118,4 @@ JacksGoGo is the booking app to find a job both employer and worker. It will be 
 
 ## :eyes: **Version**
 - [ ] React-Native 
-- [x] Expo 35
+- [x] Expo 41
